@@ -1,5 +1,6 @@
-Hello, Everyone my name id Driss these are informations the project 
-1- Spring Boot 3.0 Security with JWT Implementation
+Hello, everyone, my name is Driss these are informations the project 
+
+1. Spring Boot 3.0 Security with JWT Implementation
 This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:
 
 2- Features
